@@ -1,0 +1,4 @@
+Order deny,allow
+Deny from all
+
+#DirectoryIndex php1.html
